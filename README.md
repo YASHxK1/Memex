@@ -1,1 +1,1 @@
-# Memex
+# Memex - memory expansion
